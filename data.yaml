@@ -1,0 +1,17 @@
+# Train/Val data paths
+# You can use absolute paths or relative paths.
+# If using relative, it is relative to the directory where you run the training command.
+path: ./dataset # Base dataset directory
+
+train: train/images # Training images
+val: val/images # Validation images
+
+# Number of Classes
+nc: 4
+
+# Class Names
+names:
+  0: person
+  1: desk
+  2: table
+  3: window
