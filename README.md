@@ -1,4 +1,4 @@
-# YOLO-Classroom-Detection# YOLO Classroom Object Detection Project 🚀
+# YOLO Classroom Object Detection Project 🚀
 
 ## 📌 Project Overview
 
