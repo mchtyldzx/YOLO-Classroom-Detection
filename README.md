@@ -15,7 +15,7 @@ This **Deep Learning Project** utilizes **YOLOv8** to detect **Persons, Desks, T
 
 2.  **Install dependencies**
     ```bash
-    pip install -r requirements.txt
+    pip install ultralytics opencv-python
     ```
 
 ## 🚀 Workflow Steps
